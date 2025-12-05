@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments (if you ever make one)
+.venv/
+venv/
+env/
+
+# UV cache (if it shows up)
+.uv/
+
+# OS/editor stuff
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/# 
+Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
