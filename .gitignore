@@ -1,6 +1,7 @@
 # Python cache
 __pycache__/
 *.py[cod]
+logger.py
 
 # Virtual environments (if you ever make one)
 .venv/
